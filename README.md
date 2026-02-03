@@ -1,1 +1,1 @@
-this is the code foe the "valentines proposal"
+this is the code for the "valentines proposal"
